@@ -6,7 +6,7 @@
 
 ### Software Engineer | Tech Enthusiast
 
-Welcome to my GitHub profile! I'm passionate about writing clean, efficient code and contributing to meaningful open-source projects.
+Welcome to my GitHub profile! I'm passionate about writing clean, efficient code and contributing to meaningful open-source projects. I am currently a Computer Science major at the University of Texas at Arlington
 
 ## 🚀 Skills and Technologies
 
