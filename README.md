@@ -29,6 +29,6 @@ Welcome to my GitHub profile! I'm passionate about writing clean, efficient code
 I'm always excited to collaborate on interesting projects or discuss tech-related topics. You can reach me through the following channels:
 
 - LinkedIn: [linkedin.com/in/anivsurana](https://www.linkedin.com/in/anivsurana)
-- Personal Website: [yourwebsite.com](https://yourwebsite.com)
+- Personal Website: [anivsurana.netlify.app](https://anivsurana.netlify.app/)
 
 Feel free to explore my repositories and reach out if you have any questions or suggestions. Let's code and make the world a better place together!
