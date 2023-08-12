@@ -17,13 +17,6 @@ Welcome to my GitHub profile! I'm passionate about writing clean, efficient code
 - **DevOps:** AWS
 - **Other:** Adobe Creative Cloud, iMovie, Microsoft Office
 
-## 💼 Professional Experience
-
-- Video Production Intern
-  - Collaborated with project administrators and school teachers to ensure a positive and immersive learning experience for students.
-  - Simplified the material to be learned by using visual effects on Adobe Premiere Pro.
-  - Increased the students’ average attention span by 40%.
-
 ## 📫 Let's Connect
 
 I'm always excited to collaborate on interesting projects or discuss tech-related topics. You can reach me through the following channels:
