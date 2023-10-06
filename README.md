@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm passionate about writing clean, efficient code
 ## 🚀 Skills and Technologies
 
 - **Programming Languages:** Java, C, Python, C++
-- **Web Development:** HTML, CSS, JavaScript, React
+- **Web Development:** HTML, CSS, JavaScript, React, Node.js, Three.js
 - **Database:** SQL
 - **Version Control:** Git, GitHub
 - **DevOps:** AWS
